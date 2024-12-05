@@ -5,7 +5,7 @@
 
 # Zip File
 
-mage](https://github.com/user-attachments/assets/ff77291f-da2f-4fbe-aeba-4d7963cd011f)
+![image](https://github.com/user-attachments/assets/54aff146-241c-412e-aff0-f3c87015b63b)
 
 * Click the green button then press ZIP file to dowload the project.
 
